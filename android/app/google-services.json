@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "228865518771",
+    "firebase_url": "https://workoutfit-dev.firebaseio.com",
+    "project_id": "workoutfit-dev",
+    "storage_bucket": "workoutfit-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228865518771:android:306f1ec18c00bc9cb854c6",
+        "android_client_info": {
+          "package_name": "ru.mvlikhachev.max_fit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228865518771-5eq40vk1au2de69mt25hejljvgitpm0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWB-0ETPONcVPSMaz4NfV0nhHNhyF3Pqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228865518771-5eq40vk1au2de69mt25hejljvgitpm0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

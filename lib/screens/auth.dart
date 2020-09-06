@@ -183,6 +183,8 @@ class _AuthorizationPageState extends State<AuthorizationPage> with SingleTicker
   }
 }
 
+
+// Декоративное скругление внизу
 class BottomWaveClipper extends CustomClipper<Path> {
   @override
   Path getClip(Size size) {
